@@ -1,0 +1,10 @@
+travelmode_id,Tab,Mode,Description
+1,air,Hubballi Airport,"The nearest airport is Hubballi Airport, approximately 30 km from IIIT Dharwad campus. Direct flights are available from Bangalore, Mumbai, and Hyderabad. From the airport, you can take a taxi to reach the institute (approximately 45 minutes)."
+2,rail,Dharwad Railway Station,"Dharwad has its own railway station with good connectivity to major cities like Bangalore, Mumbai, Pune, and Hyderabad. From the railway station, you can take an auto-rickshaw or taxi to reach the campus (approximately 15-20 minutes)."
+3,rail,Hubballi Railway Station,Hubballi (earlier known as Hubli) is a major railway junction approximately 20 km from Dharwad with better connectivity to various parts of the country. Regular buses and taxis are available from Hubballi to Dharwad.
+4,road,State Transport Buses,"Karnataka State Road Transport Corporation (KSRTC) operates regular bus services to Dharwad from Bangalore, Mysore, Mangalore, and other major cities in Karnataka. The journey from Bangalore to Dharwad takes approximately 8-9 hours."
+5,road,Private Buses,Several private operators run comfortable AC and non-AC sleeper and seater buses to Dharwad from major cities. These can be booked online through various platforms.
+6,road,Local Transport,"From Dharwad bus stand, you can take an auto-rickshaw or city bus to reach the IIIT Dharwad campus."
+7,car,From Bangalore,Dharwad is well-connected to Bangalore via NH-48 (earlier NH-4). The distance is approximately 430 km and takes around 7-8 hours by car. Take the Pune-Bengaluru Highway and drive towards Hubballi-Dharwad. IIIT Dharwad is located on the Pune-Bengaluru Highway (NH-4) in the WALMI Campus.
+8,car,From Mumbai,The distance from Mumbai to Dharwad is approximately 550 km via NH-48. The journey takes around 10-11 hours by car.
+9,car,From Goa,Dharwad is about 150 km from Goa via NH-748. The journey takes approximately 3-4 hours by car.
